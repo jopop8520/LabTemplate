@@ -13,6 +13,8 @@ public class ReadInput {
 		String s;
 		s = Reader.next();
 		System.out.println(s);
+		s = Reader.next();
+		System.out.println(s);
 		
 	}
 
